@@ -28,7 +28,7 @@ Airdrop tokens from the app. Airdrop tokens to multiple addresses.
 
 Set up and deploy votes in the app. Create and configure voting sessions to allow users to vote on proposals.
 
-We hope you enjoy using the Web3 Dao Web App!
+I hope you enjoy using the Web3 Dao Web App!
 
 TO RUN:
 
